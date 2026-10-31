@@ -1,0 +1,53 @@
+﻿DOPE — 60 VISUELS POUR LES ALERTES D'ACHAT
+
+CONTENU
+DOPE-30-memes/images : 30 mèmes illustrés carrés.
+DOPE-30-cinema/images : 30 scènes en paysage, rendu cinéma / 3D.
+GALERIE.html : parcourir, filtrer et ouvrir les 60 originaux.
+Chaque dossier contient un APERCU.jpg, un index et les prompts complets.
+Les aperçus et les miniatures servent uniquement à la consultation.
+
+UTILISATION AVEC HERMES
+Copier le dossier décompressé sur l'ordinateur qui exécutera Hermes.
+Utiliser index-hermes.json à la racine pour les 60 images, ou l'index d'un seul pack.
+Les chemins sont relatifs au dossier de l'index choisi.
+Sélectionner uniquement les fichiers référencés dans le champ file.
+Les seuils proposés reprennent les exemples du brief et restent modifiables :
+1 000 à moins de 5 000 USD : accumulation
+5 000 à moins de 10 000 USD : big_buy
+10 000 à moins de 20 000 USD : whale
+20 000 à moins de 50 000 USD : mega_whale
+50 000 USD et plus : legendary
+Dans la tranche choisie, tirer une image au hasard en évitant les trois dernières.
+Si le montant manque ou est inférieur à 1 000 USD, ne rien sélectionner avec ces règles.
+Le montant exact et les données de transaction doivent venir de l'événement d'achat.
+Les images ne contiennent pas de montant de transaction fixe.
+Cette livraison fournit les visuels et les métadonnées. La connexion de Hermes,
+la détection des achats et la publication sur X ne sont pas installées ici.
+
+DIRECTION ET SOURCES
+Identité DOPE : hybride Shiba doré / Pepe, grands yeux blancs, bouche horizontale,
+expression impassible ; variations inspirées des références de la communauté.
+https://dopeonotc.lol/
+https://dopeonotc.lol/memes
+https://dopeonotc.lol/brand
+https://dopevault.fun/social-wall
+https://x.com/dopecoinotc/media
+
+PRODUCTION
+Images créées avec l'outil intégré image_gen, une génération distincte par visuel,
+avec deux références visuelles DOPE. Les prompts exacts se trouvent dans chaque
+prompts.json. Les chemins de références y documentent l'environnement de création.
+Les PNG livrés sont les sorties originales du générateur, sans agrandissement.
+Les rendus 3D sont des images raster : aucun fichier de scène 3D n'est inclus.
+
+PHOTOS SOURCES
+31 : adaptation générative à partir d'une photographie Apollo 11.
+Crédit de la photo source : NASA/JSC, Neil A. Armstrong.
+https://science.nasa.gov/resource/apollo-11-mission-image-astronaut-edwin-aldrin/
+32 : adaptation générative à partir d'une photographie du centre de contrôle.
+Crédit de la photo source : NASA, S69-40022.
+https://images.nasa.gov/details/s69-40022
+Ces deux créations transforment les photographies sources ; elles ne constituent
+pas des collages préservant chaque pixel de la photo originale.
+Les autres scènes de ce pack sont générées avec une apparence photographique.
